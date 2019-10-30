@@ -1,2 +1,2 @@
 # kantimann.github.io
-repo for creating github pages
+This readme is for the repo to create github pages
